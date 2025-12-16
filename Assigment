@@ -1,0 +1,61 @@
+                    chapter 1 ( short question )
+1. Define the term ”Protocol” in the context of the Internet.
+=A protocol is a set of rules that computers follow to send and receive data over the Internet. It helps different devices understand each other while communicating.
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+=A web browser is a software used to open and view websites, such as Chrome or Firefox.
+A search engine is a website that helps us find information on the Internet, such as Google or Bing.
+
+3. Define the World Wide Web (WWW).
+=The World Wide Web is a collection of websites and web pages that we can access through the Internet using a web browser.
+
+4. Distinguish between a static web page and a dynamic web page.
+=A static web page shows the same content to all users and does not change.
+A dynamic web page can change its content based on user actions or data from a database.
+
+                Long Questions 
+5.Explain the client-server architecture of the web with a neat diagram
+=In client–server architecture, one computer asks for information and another computer gives it.The client is the user’s computer or mobile with a web browser.
+
+- The server is a computer that stores websites. -The client sends a request for a web page. -The server sends the requested web page back to the client.
+
+6.Describe the functions of the following Internet services: Email, FTP, and VoIP.
+=a) Email
+Email is used to send and receive messages through the Internet. We can also send photos and files using email.
+
+b) FTP
+FTP is used to send files from one computer to another through the Internet. It is mostly used to upload and download large files.
+
+c) VoIP
+VoIP is used to make voice and video calls using the Internet. It is cheaper than normal phone calls.
+
+7. ”The Internet is a network of networks.” Elaborate on this statement explaining how
+packet switching works.
+=The Internet is called a network of networks because it connects many small networks all over the world.
+
+Packet Switching:
+- Data is divided into small parts called packets.
+-These packets travel through different paths on the Internet.
+-When they reach the destination, they are joined together again.
+-This makes data transfer fast and safe.
+
+
+         Scenario-Based Questions
+ A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use
+a dynamic website. As a consultant, would you agree? Justify your answer.
+= No, I would not agree with using a dynamic website.
+The company wants to show the same information to all users and wants low maintenance cost. A static website is better because it is simple, cheaper, faster, and does not need a database or frequent updates. A dynamic website is more complex and costs more, so it is not suitable in this case.
+
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not
+Found” error, even though the internet connection is active. However, accessing the sitevia 142.250.190.46 works. Diagnose the problem and explain the underlying technology
+that failed
+= The problem is with the DNS (Domain Name System).
+When a user types www.google.com, the browser uses DNS to convert the website name into an IP address. In this case, the DNS is not working properly, so the browser cannot find the server.
+However, when the IP address 142.250.190.46 is typed directly, the website opens because DNS is not needed. So, the DNS system failed.
+
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers
+but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
+= The company should use an Extranet.
+An Extranet allows a company to share information with specific external users, such as suppliers or partners, while keeping the data private and secure.
+The Internet is public and not safe for sensitive data, and an Intranet is only for internal employees.
