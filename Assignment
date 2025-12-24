@@ -1,0 +1,64 @@
+        Short Questions 
+1. What is a Sitemap in the planning phase?
+= A sitemap is a simple map of a website that shows all the pages and how they are linked to each other. It helps plan the structure of the website.
+
+2. What is the purpose of the Launch phase in web development?
+= The launch phase is when the website is finally uploaded to the server and made available for users to visit.
+
+3. Why is Documentation important in the development lifecycle?
+= Documentation helps developers understand how the website was built. It makes future updates, fixes, and teamwork easier.
+
+4. Difference between Front-end and Back-end development:
+= Front-end development deals with what users see on the screen, like layout and design.
+Back-end development handles the server, database, and logic that work behind the scenes.
+
+         Long Questions 
+
+5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
+= Planning is very important because it decides how the whole website will be built. During this phase:
+
+Goals of the website are decided
+Target users are identified
+Sitemap and layout are planned
+Budget, tools, and timeline are set
+Good planning reduces mistakes and saves time and money later.
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
+= The maintenance phase involves updating content, fixing errors, and improving security.
+A website is never finished because:
+Information needs regular updates
+Bugs may appear over time
+User needs keep changing
+New technology keeps coming
+
+
+7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
+= Information gathering means collecting requirements from the client, such as goals, features, and expectations.
+Knowing the target audience is important because it helps create a website that is easy to use and useful for the right people.
+
+        Scenario-Based Questions 
+
+8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+= Skipping testing can cause many problems:
+Security issues like hacking
+Errors in payment or features
+Website not working on all devices or browsers
+Testing helps find and fix problems before launch, saving money and protecting users.
+
+9. Adeveloper begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
+= The developer did not plan properly before coding.
+Problems:
+No design or sitemap was created
+Client expectations were unclear
+Correct method:
+First create a design and sitemap
+Take client approval
+Then start coding
+This avoids confusion and wasted work.
+
+10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
+= The Maintenance phase was neglected.
+This phase includes:
+Updating exam schedules and noticesFixing issues
+Keeping content fresh
+Without maintenance, users lose interest in the website.
